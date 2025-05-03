@@ -59,3 +59,10 @@ Hermes uses a logging system to record the progress and any errors during proces
 ## Summary
 
 Hermes is a robust tool for automating the conversion and translation of CSV files, especially useful for handling Chinese text and ensuring compatibility across different encoding standards. It supports batch processing, progress tracking, and error handling to facilitate efficient and reliable data processing workflows.
+
+---
+
+👨‍💻 Developer  
+Developed by Blackbeard | Ten Titanics | GitHub
+
+© 2023-2024 Blackbeard. All rights reserved.
