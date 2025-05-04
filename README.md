@@ -64,4 +64,4 @@ Hermes is a robust tool for automating the conversion and translation of CSV fil
 
 Developed by [Blackbeard](https://blackbeard.one) | [Ten Titanics](https://tentitanics.com) | [GitHub](https://github.com/blackbeardONE)
 
-© 2023-2024 Blackbeard. All rights reserved.
+© 2023-2025 Blackbeard. All rights reserved.
